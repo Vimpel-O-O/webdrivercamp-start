@@ -4,9 +4,9 @@ $ gh repo create project-name --public
 
 # Commit your first change
 ## Create a README file with some information about the project.
-$ echo "info about this project" >> README.md
-$ git status (to check you have untracked README.md file)
-$ git add README.md && git commit -m "Add README" (Commit README.md file)
+$ echo "info about this project" >> README.md <br/>
+$ git status (to check you have untracked README.md file) <br/>
+$ git add README.md && git commit -m "Add README" (Commit README.md file) <br/>
 $ git push --set-upstream origin HEAD 
 
 # Cloning a repository

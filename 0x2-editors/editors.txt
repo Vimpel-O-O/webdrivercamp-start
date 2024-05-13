@@ -1,0 +1,12 @@
+0 - emacs <file>
+1 - C-x C-s
+2 - C-k at the beggining of the line
+3 - C-y
+5 - C-/
+6 - C-x C-c
+7 - i before, a after
+8 - dd
+10 - u
+11 - :q!
+12 - 0
+13 - $
